@@ -18,9 +18,9 @@
 <br>
 
 # My Recent Project:
-- [Stone-Paper-Scissors](https://github.com/FantoX001/Miku-MD)
+- [Stone-Paper-Scissors](https://github.com/tanmoydass/Stone-Paper-Scissors)
 <p align="center">
-   <a href="https://github.com/FantoX001/Miku-MD">
+   <a href="https://github.com/tanmoydass/Stone-Paper-Scissors">
     <img src="https://c.tenor.com/uaPoqYePwr4AAAAj/funny-jogo.gif" width="250">  
 </p>
 
