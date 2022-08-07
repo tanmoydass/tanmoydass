@@ -18,9 +18,9 @@
 <br>
 
 # My Recent Project:
-- [Stone-Paper-Scissors](https://github.com/tanmoydass/Stone-Paper-Scissors)
+- [Stone-Paper-Scissors](https://github.com/tanmoydass/Project/blob/main/Stone-Paper-Scissors)
 <p align="center">
-   <a href="https://github.com/tanmoydass/Stone-Paper-Scissors">
+   <a href="https://github.com/tanmoydass/Project/blob/main/Stone-Paper-Scissors">
     <img src="https://c.tenor.com/uaPoqYePwr4AAAAj/funny-jogo.gif" width="250">  
 </p>
 
