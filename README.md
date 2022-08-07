@@ -50,7 +50,7 @@
 
 <p align="center">
    <a href="https://github.com/tanmoydass">
-    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500"> </a>
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250"> </a>
     </p>
 <br>
 
