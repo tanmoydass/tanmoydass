@@ -1,31 +1,31 @@
 <p align="center">
    <a href="https://github.com/tanmoydass">
-    <img src="https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif" width="300"> </a>
+    <img src="https://c.tenor.com/2vzT-8oPXl8AAAAj/tkthao219-bubududu.gif" width="350"> </a>
     </p>
 
-<h1 align="center"> Hi Bro i am Fantox. Nice to meet ya!
+<h1 align="center"> Hey, I am Tanmoy, How are you?
 </h1>
-
+<br>
 
 ### My about:
-- 🔭 I’m currently a student.
-- 🌱 I’m currently learning AI and Machine Learning for my own interest. 
-- 🤔 I'm intesested in both procedural languages(C, Bash, Python) and object oriented languages(C++, Java).
-- ⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant and AI Chatbot.
-- ⚡ Currently working on WhatsApp Bots.
+- 🔭 I’m a CSE student
+- 🌱 I’m currently learning Machine Learning for my own interest. 
+- 🤔 I'm intesested in both procedural languages(C, Python) and object oriented languages(Java).
+- ⚡ My current ongoing projects are: Stone-Paper-Scissors, Guess the number
+- ⚡ Currently working on Machine Learning
 
 <br>
 <br>
 
 # My Recent Project:
-- [Tanmoy Das](https://github.com/FantoX001/Miku-MD)
+- [Stone-Paper-Scissors](https://github.com/FantoX001/Miku-MD)
 <p align="center">
    <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="500">  
+    <img src="https://c.tenor.com/uaPoqYePwr4AAAAj/funny-jogo.gif" width="250">  
 </p>
 
-<h3 align="center"> Miku Nakano (Multi Device) WhatsApp Bot.
-</h3>
+<h2 align="center"> Stone-Paper-Scissors
+</h2>
 <br><br><br>
 
 # My Github Status:
@@ -45,12 +45,12 @@
 <br>
 <br>
 
-<h6 align="center"> Running and improvig myself day by day...
+<h3 align="center"> Learning new things day by day...
 </h6>
 
 <p align="center">
    <a href="https://github.com/tanmoydass">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500"> </a>
     </p>
 <br>
 
