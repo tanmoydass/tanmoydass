@@ -1,9 +1,9 @@
 <p align="center">
    <a href="https://github.com/tanmoydass">
-    <img src="https://c.tenor.com/2vzT-8oPXl8AAAAj/tkthao219-bubududu.gif" width="350"> </a>
+    <img src="https://c.tenor.com/2vzT-8oPXl8AAAAj/tkthao219-bubududu.gif" width="290"> </a>
     </p>
 
-<h1 align="center"> Hey, I am Tanmoy, How are you?
+<h2 align="center"> Hey, I am Tanmoy, How are you?
 </h1>
 <br>
 
