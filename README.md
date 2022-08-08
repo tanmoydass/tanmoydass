@@ -28,9 +28,9 @@
 </h2>
 <br>
 
-- [Guess-The-Number](https://github.com/tanmoydass/Project/blob/main/Guess-the-number)
+- [Guess-The-Number](https://github.com/tanmoydass/Project/blob/main/Python%20Projects/Guess-The-Number)
 <p align="center">
-   <a href="https://github.com/tanmoydass/Project/blob/main/Guess-the-number">
+   <a href="https://github.com/tanmoydass/Project/blob/main/Python%20Projects/Guess-The-Number">
     <img src="https://c.tenor.com/bJm4u-ijtCYAAAAC/greys-anatomy-amelia-shepherd.gif" width="280">
  </p>
  
