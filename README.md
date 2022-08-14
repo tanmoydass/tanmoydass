@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/tanmoydass">
-    <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="100"> </a>
+    <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="150"> </a>
     </p>
 
 <h2 align="center"> Hey, I am Tanmoy, How are you?
@@ -68,7 +68,7 @@
 
 <p align="center">
    <a href="https://github.com/tanmoydass">
-    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250"> </a>
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200"> </a>
     </p>
 <br>
 
