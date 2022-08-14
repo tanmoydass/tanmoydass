@@ -11,7 +11,6 @@
 - 🔭 I’m a CSE student
 - 🌱 I’m currently learning Machine Learning for my own interest. 
 - 🤔 I'm intesested in both procedural languages(C, Python) and object oriented languages(Java).
-- ⚡ Currently working on my future.
 
 <br>
 <br>
@@ -62,7 +61,7 @@
 <br>
 <br>
 
-<h3 align="center"> Learning new things day by day...
+<h3 align="center"> Working on my future...
 </h6>
 
 <p align="center">
