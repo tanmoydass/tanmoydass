@@ -17,11 +17,19 @@
 <br>
 <br>
 
+# My Webapp:
+- [Scam-Ham Detector](https://spam-detector-tanmoy.herokuapp.com/)
+<p align="center">
+   <a href="https://spam-detector-tanmoy.herokuapp.com/">
+   <img src="https://c.tenor.com/XYcBe6u0j2EAAAAi/microsoft-microsoft365.gif" width="100">
+</p>
+<br>
+
 # My Recent Project:
 - [Stone-Paper-Scissors](https://github.com/tanmoydass/Project/blob/main/Python%20Projects/Stone-Paper-Scissors)
 <p align="center">
    <a href="https://github.com/tanmoydass/Project/blob/main/Python%20Projects/Stone-Paper-Scissors">
-    <img src="https://c.tenor.com/uaPoqYePwr4AAAAj/funny-jogo.gif" width="250">  
+    <img src="https://c.tenor.com/uaPoqYePwr4AAAAj/funny-jogo.gif" width="100">  
 </p>
 
 <h2 align="center"> Stone-Paper-Scissors
@@ -31,7 +39,7 @@
 - [Guess-The-Number](https://github.com/tanmoydass/Project/blob/main/Python%20Projects/Guess-The-Number)
 <p align="center">
    <a href="https://github.com/tanmoydass/Project/blob/main/Python%20Projects/Guess-The-Number">
-    <img src="https://c.tenor.com/bJm4u-ijtCYAAAAC/greys-anatomy-amelia-shepherd.gif" width="280">
+    <img src="https://c.tenor.com/bJm4u-ijtCYAAAAC/greys-anatomy-amelia-shepherd.gif" width="100">
  </p>
  
  <h2 align="center"> Guess-The-Number
