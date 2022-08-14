@@ -11,8 +11,7 @@
 - 🔭 I’m a CSE student
 - 🌱 I’m currently learning Machine Learning for my own interest. 
 - 🤔 I'm intesested in both procedural languages(C, Python) and object oriented languages(Java).
-- ⚡ My current ongoing projects are: Stone-Paper-Scissors, Guess the number
-- ⚡ Currently working on Machine Learning
+- ⚡ Currently working on my future.
 
 <br>
 <br>
