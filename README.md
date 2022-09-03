@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# My Webapp:
+# My Project:
 - [Scam-Ham Detector](https://spam-detector-tanmoy.herokuapp.com/)
 <p align="center">
    <a href="https://spam-detector-tanmoy.herokuapp.com/">
