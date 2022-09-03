@@ -3,7 +3,7 @@
     <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="150"> </a>
     </p>
 
-<h2 align="center"> Hey, I am Tanmoy
+<h2 align="center"> Hey, I am Tanmoy Das
 </h1>
 <br>
 
