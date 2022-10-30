@@ -18,12 +18,12 @@
 # My Project:
 - [Scam Ham Detector](https://spam-detector-tanmoy.herokuapp.com/)
 - [Password Maker](https://spam-detector-tanmoy.herokuapp.com/)
-<p align="center">
+<p align="left">
    <a href="https://spam-detector-tanmoy.herokuapp.com/">
    <img src="https://c.tenor.com/XYcBe6u0j2EAAAAi/microsoft-microsoft365.gif" width="100">
 </p>
 <br>
-<p align="center">
+<p align="left">
    <a href="https://password-maker-tanmoy.herokuapp.com/">
    <img src="https://media.tenor.com/_Re17Ggv9LcAAAAC/password-please-jidon-adams.gif" width="100">
 </p>
