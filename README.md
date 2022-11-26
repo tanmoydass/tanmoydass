@@ -3,14 +3,15 @@
     <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="150"> </a>
     </p>
 
-<h2 align="center"> Hey, Myself Tanmoy Das
+<h2 align="center"> Hey, This is Tanmoy Das
 </h1>
 <br>
 
 ### My about:
-- 🔭 I’m a CSE student
-- 🌱 I’m currently learning Machine Learning for my own interest. 
-- 🤔 I'm intesested in both procedural languages(C, Python) and object oriented languages(Java).
+- 🔭 I’m a B.Tech CSE student at Brainware University & Junior Software Developer trainee at ICRA Analytics Ltd.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, .Net Framewrok.
+- 🤔 I'm intesested in both procedural languages(C, Python) and object oriented languages(Java, C++, C#).
+- 🤞 I have also knowledge about Ms Sql Server, Oracle, MySQL.
 
 <br>
 <br>
