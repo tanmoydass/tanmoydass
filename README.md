@@ -31,10 +31,7 @@
 
 <br>
 
-![Github Badges](https://github-readme-stats.vercel.app/api?username=tanmoydass&show_icons=true&theme=vision-friendly-dark)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmoydass&layout=compact)](https://github.com/tanmoydass/github-readme-stats)<br>
+
 ![My Profile Views](https://gpvc.arturio.dev/tanmoydass)
 <br>
 <br>
