@@ -8,7 +8,6 @@
 <br>
 
 ### My about:
-- 🔭 I’m a B.Tech CSE student at Brainware University & Junior Software Developer trainee at ICRA Analytics Ltd.
 - 🌱 I’m currently learning Machine Learning, Deep Learning, .Net Framewrok.
 - 🤔 I'm intesested in both procedural languages(C, Python) and object oriented languages(Java, C++, C#).
 - 🤞 I have also knowledge about Ms Sql Server, Oracle, MySQL.
