@@ -37,11 +37,6 @@
 
 <br>
 
-
-![My Profile Views](https://gpvc.arturio.dev/tanmoydass)
-<br>
-<br>
-
 <h3 align="center"> Working on my future...
 </h6>
 
