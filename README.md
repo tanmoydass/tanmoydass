@@ -16,8 +16,15 @@
 <br>
 
 # My Project:
-- [Scam Ham Detector](https://spam-detector-tanmoy.herokuapp.com/)
-- [Password Maker](https://password-maker-tanmoy.herokuapp.com/)
+- Scam Ham Detector
+- Password Maker
+- Sign Language Recognition using Webcam
+- Covid19 Death Rate Visualizer
+- Windows Calculator App
+- India Tempreture Forecasting
+- Face Detection using Webcam
+- Guess the number game
+- Stone Paper Scissors game
 
 <br>
 
