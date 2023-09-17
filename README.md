@@ -16,15 +16,16 @@
 <br>
 
 # My Project:
-- Scam Ham Detector
-- Password Maker
-- Sign Language Recognition using Webcam
-- Covid19 Death Rate Visualizer
-- Windows Calculator App
-- India Tempreture Forecasting
-- Face Detection using Webcam
-- Guess the number game
-- Stone Paper Scissors game
+- Flipkart Clone using Html, Css
+- Scam Ham Detector using Ml
+- Password Maker using Python
+- Sign Language Recognition via Webcam using Ml
+- Covid19 Death Rate Visualizer using Ml
+- Windows Calculator App using .net framework C#
+- India Tempreture Forecasting using Ml
+- Face Detection using Webcam using Opencv
+- Guess the number game using Python / Java
+- Stone Paper Scissors game using Python /Java
 
 <br>
 <br>
