@@ -18,7 +18,7 @@
 # My Project:
 - Flipkart Clone using Html, Css
 - Sign Language Recognition via Webcam using Ml
-- Windows Calculator App using .net framework C#
+- Windows Calculator App using .Net framework C#
 - Scam Ham Detector using Ml
 - Password Maker using Python
 - India Tempreture Forecasting using Ml
